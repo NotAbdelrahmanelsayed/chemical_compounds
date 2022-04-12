@@ -1,0 +1,21 @@
+Target,
+LC50,The concentrations of the chemical (mg/l or mmol/l) in air/water that kills 50% of the test animals during the observation period. 
+-logLC50,
+,
+Input,2D and 3D descriptors
+MW,molecular weight
+MOA,mode of action
+logD,apparent partition coefficient
+Class CE,EU clasification for fish LC50 96h (I <1mg/l; II 1-10 mg/l; III 10-100 mg/l; IV >100mg/l)
+QM,quantum-chemical descriptors
+C,constitional descriptors
+T,topological descriptors
+G,geometrical descriptors
+E,electrostatic descriptors
+pH & logP,physico-chemical descriptors (lipophilicity)
+,
+Identification,
+ID,local id
+NAME,name of chemical copound
+CAS,unique numerical identifier assigned by the Chemical Abstracts Service
+SMILES,Simplified Molecular Input Line Entry System = chemical notation that allows a user to represent a chemical structure in a way that can be used by the computer
